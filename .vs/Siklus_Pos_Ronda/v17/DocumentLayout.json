@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|d:\\produktif\\unity\\projek\\3d\\psychological horror\\siklus pos ronda\\siklus_pos_ronda\\assets\\_posronda\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T15:01:56.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

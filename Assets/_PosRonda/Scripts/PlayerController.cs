@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
 {
     [Header("Status Player")]
     public bool canMove = false;
+    public bool punyaSenter = false;
 
     [Header("Pengaturan Jalan")]
     public float kecepatanJalan = 0.3f;

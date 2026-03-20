@@ -11,6 +11,12 @@ public class UIManager : MonoBehaviour
     public TextMeshProUGUI teksBatin;
     public TextMeshProUGUI teksDialog;
 
+    [Header("UI Interkasi")]
+    public TextMeshProUGUI UIInteraksi;
+
+    [Header("UI Daftar Tugas")]
+    public TextMeshProUGUI teksTugas;
+
     void Awake() {
         instance = this;
     }
@@ -22,7 +28,6 @@ public class UIManager : MonoBehaviour
 
     public void MunculinTeksBatin(string kataKata, float lamaMuncul) {
         StopAllCoroutines();
-
         StartCoroutine(ProsesTeks(kataKata, lamaMuncul));
     }
 
@@ -42,6 +47,25 @@ public class UIManager : MonoBehaviour
 
     public void SembunyiTeks() {
         teksDialog.enabled = false;
+    }
+
+    public void TampilkanInteraksi(string pesan) { 
+        UIInteraksi.text = pesan;
+        UIInteraksi.enabled = true;
+    }
+
+    public void SembunyiInteraksi() {
+        UIInteraksi.text = "";
+        UIInteraksi.enabled = false;
+    }
+
+    public void UpdateDaftarTugas(string tugasBaru) {
+        teksTugas.text = tugasBaru;
+        teksTugas.enabled = true;
+    }
+
+    public void SembunyiDaftarTugas() {
+        teksTugas.enabled = false;
     }
 
 }

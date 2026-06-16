@@ -6,15 +6,14 @@ public class SenterController : MonoBehaviour
 {
     public Light lampuSenter;
     private bool isNyala = false;
-    private bool punyaSenter;
+    PlayerController playerController;
 
     private void Start() {
-        PlayerController pc = GetComponentInParent<PlayerController>();
-        punyaSenter = pc.punyaSenter;
+        playerController = GetComponentInParent<PlayerController>();
     }
 
     private void Update() {
-        if (punyaSenter && Input.GetKeyDown(KeyCode.F)) {
+        if (playerController.canMove && Input.GetKeyDown(KeyCode.F)) {
             isNyala = !isNyala;
             lampuSenter.enabled = isNyala;
         }

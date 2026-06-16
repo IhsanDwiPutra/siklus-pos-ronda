@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Telepon
   - Senter
+  - Gembok
+  - Kentongan
   layers:
   - Default
   - TransparentFX

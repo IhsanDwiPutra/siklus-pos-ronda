@@ -3,7 +3,35 @@
   "WorkspaceRootPath": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|d:\\produktif\\unity\\projek\\3d\\psychological horror\\siklus pos ronda\\siklus_pos_ronda\\assets\\_posronda\\scripts\\misitelepon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\misikentongan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\misikentongan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|d:\\produktif\\unity\\projek\\3d\\psychological horror\\siklus pos ronda\\siklus_pos_ronda\\assets\\_posronda\\scripts\\jumpscaretrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\jumpscaretrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|d:\\produktif\\unity\\projek\\3d\\psychological horror\\siklus pos ronda\\siklus_pos_ronda\\assets\\_posronda\\scripts\\interaksiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\interaksiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\misimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\misimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\gembokrumah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\gembokrumah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\sentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\sentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\misitelepon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\misitelepon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,24 +39,16 @@
       "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\interaksiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\interaksiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\sutradaraopening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\sutradaraopening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\sentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\sentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\munculteksbatin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\munculteksbatin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\assets\\_posronda\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50113EA3-58CB-1DE2-3402-5C0BD0C8B060}|Assembly-CSharp.csproj|solutionrelative:assets\\_posronda\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,63 +58,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JumpscareTrigger.cs",
+              "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\JumpscareTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\JumpscareTrigger.cs",
+              "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\JumpscareTrigger.cs",
+              "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\JumpscareTrigger.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T08:46:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MisiKentongan.cs",
+              "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\MisiKentongan.cs",
+              "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\MisiKentongan.cs",
+              "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\MisiKentongan.cs",
+              "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\MisiKentongan.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:26:00.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GembokRumah.cs",
+              "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\GembokRumah.cs",
+              "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\GembokRumah.cs",
+              "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\GembokRumah.cs",
+              "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\GembokRumah.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:59:05.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MisiManager.cs",
+              "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\MisiManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\MisiManager.cs",
+              "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\MisiManager.cs",
+              "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\MisiManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:52:48.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SceneFader.cs",
+              "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\SceneFader.cs",
+              "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\SceneFader.cs",
+              "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\SceneFader.cs",
+              "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\SceneFader.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T03:08:22.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MisiTelepon.cs",
               "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\MisiTelepon.cs",
               "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\MisiTelepon.cs",
               "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\MisiTelepon.cs",
               "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\MisiTelepon.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T03:44:20.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T03:44:20.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InteraksiPlayer.cs",
               "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\InteraksiPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\InteraksiPlayer.cs",
               "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\InteraksiPlayer.cs",
               "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\InteraksiPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T03:39:30.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "UIManager.cs",
               "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\UIManager.cs",
               "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\UIManager.cs",
               "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\UIManager.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAwwBoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0MAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T06:48:46.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T06:48:46.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "SutradaraOpening.cs",
               "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\SutradaraOpening.cs",
               "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\SutradaraOpening.cs",
               "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\SutradaraOpening.cs",
               "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\SutradaraOpening.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwB4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T06:34:46.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T06:34:46.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "MunculTeksBatin.cs",
               "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\MunculTeksBatin.cs",
               "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\MunculTeksBatin.cs",
@@ -106,27 +186,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SenterController.cs",
               "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\SenterController.cs",
               "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\SenterController.cs",
               "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\SenterController.cs",
               "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\SenterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T04:14:46.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\_PosRonda\\Scripts\\PlayerController.cs",
               "ToolTip": "D:\\PRODUKTIF\\Unity\\Projek\\3D\\Psychological Horror\\Siklus Pos Ronda\\Siklus_Pos_Ronda\\Assets\\_PosRonda\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\_PosRonda\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T15:01:56.985Z"
+              "WhenOpened": "2026-03-14T15:01:56.985Z",
+              "EditorCaption": ""
             }
           ]
         }

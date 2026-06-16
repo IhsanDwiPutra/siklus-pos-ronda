@@ -9,10 +9,6 @@ public class InteraksiPlayer : MonoBehaviour
     public MisiTelepon misiTelepon;
     private PlayerController playerController;
 
-    private void Start() {
-        playerController = GetComponent<PlayerController>();
-    }
-
     private void Update() {
         Ray ray = kameraPlayer.ScreenPointToRay(new Vector3(Screen.width / 2, Screen.height / 2, 0));
         RaycastHit hit;
@@ -23,10 +19,32 @@ public class InteraksiPlayer : MonoBehaviour
                 if (Input.GetKeyDown(KeyCode.E)) {
                     misiTelepon.AngkatTelepon();
                 }
-            } else if (hit.collider.CompareTag("Senter")){
-                UIManager.instance.TampilkanInteraksi("[E] Ambil Senter");
-                if (Input.GetKeyDown(KeyCode.E)) {
-                    playerController.punyaSenter = true;
+            } else if (hit.collider.CompareTag("Gembok")){
+                UIManager.instance.TampilkanInteraksi("[E] Cek");
+                GembokRumah gembok = hit.collider.GetComponent<GembokRumah>();
+                if (Input.GetKeyDown(KeyCode.E)) if (gembok != null) gembok.CekGembok();
+            
+            } else if(hit.collider.CompareTag("Kentongan"))
+            {
+                UIManager.instance.TampilkanInteraksi("[E] Pukul Kentongan");
+
+                if (Input.GetKeyDown(KeyCode.E))
+                {
+                    Debug.Log("Kentongan ketemu");
+
+                    MisiKentongan kentongan =
+                        hit.collider.GetComponent<MisiKentongan>();
+
+                    Debug.Log("Script = " + kentongan);
+
+                    if (kentongan != null)
+                    {
+                        kentongan.PukulKentongan();
+                    }
+                    else
+                    {
+                        Debug.LogError("MisiKentongan NULL");
+                    }
                 }
             } else UIManager.instance.SembunyiInteraksi();
             

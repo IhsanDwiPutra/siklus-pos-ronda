@@ -95,6 +95,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6512510688612296998, guid: 13d9378f1abd96b4abbf5785515f7a07,
         type: 3}
+      propertyPath: m_Name
+      value: KentonganHit
+      objectReference: {fileID: 0}
+    - target: {fileID: 6512510688612296998, guid: 13d9378f1abd96b4abbf5785515f7a07,
+        type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}

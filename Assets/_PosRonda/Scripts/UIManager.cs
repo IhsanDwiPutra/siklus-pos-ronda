@@ -17,6 +17,9 @@ public class UIManager : MonoBehaviour
     [Header("UI Daftar Tugas")]
     public TextMeshProUGUI teksTugas;
 
+    [Header("UI Judul Malam")]
+    public TextMeshProUGUI judulMalam;
+
     void Awake() {
         instance = this;
     }
@@ -24,6 +27,9 @@ public class UIManager : MonoBehaviour
     private void Start() {
         teksBatin.enabled = false;
         teksDialog.enabled = false;
+
+        if (judulMalam != null)
+            judulMalam.enabled = false;
     }
 
     public void MunculinTeksBatin(string kataKata, float lamaMuncul) {
@@ -66,6 +72,17 @@ public class UIManager : MonoBehaviour
 
     public void SembunyiDaftarTugas() {
         teksTugas.enabled = false;
+    }
+
+    public void TampilkanJudulMalam(string judul)
+    {
+        judulMalam.text = judul;
+        judulMalam.enabled = true;
+    }
+
+    public void SembunyikanJudulMalam()
+    {
+        judulMalam.enabled = false;
     }
 
 }

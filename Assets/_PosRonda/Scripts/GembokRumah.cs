@@ -10,6 +10,13 @@ public class GembokRumah : MonoBehaviour
         if (udahDicek == true) return;
         udahDicek = true;
         MisiManager.instance.GembokDiCek();
+        if (
+            NightManager.instance.currentNight == 3 &&
+            MisiManager.instance.gembokSelesai >= 3
+        )
+        {
+            NightManager.instance.MunculkanHantuMalam3();
+        }
         gameObject.tag = "Untagged";
     }
 
